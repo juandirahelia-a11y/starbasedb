@@ -1,3 +1,8 @@
+> [!CAUTION]
+> Outerbase has been acquired by Cloudflare. This repository will not be receiving any additional changes.
+
+<br />
+
 <p align="center">
   <a href="https://starbasedb.com">
     <img alt="StarbaseDB – Scale-to-zero HTTP SQLite database" src="https://github.com/Brayden/starbasedb/blob/main/banner.png?raw=true" width="1280">
